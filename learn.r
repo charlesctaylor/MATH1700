@@ -1,5 +1,7 @@
 ### classification and regression trees (CART)
 
+## to download this file, use: https://charlesctaylor.github.io/MATH1700/learn.r
+
 library(rpart) # "rpart" = Recursive PARTitioning
 library(MASS) # datasets (and more) used in Modern Applied Statistics using Splus (Ripley)
 
@@ -22,7 +24,7 @@ par(xpd = NA) # maybe necessary to avoid clipping text in the plot
 ### can compare to multiple linear regression
 lm1=lm(medv~.,data=Boston)
 summary(lm1)
-# RSSas criterion for performance
+# RSS as criterion for performance
 sum((predict(r1)-Boston$medv)^2); sum((predict(lm1)-Boston$medv)^2)
 matplot(cbind(predict(r1),predict(lm1)),cbind(residuals(r1),residuals(lm1)))
 
