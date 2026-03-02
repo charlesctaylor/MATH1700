@@ -1,0 +1,202 @@
+Country,Region,CO2_Emissions_PerCapita,SPI_Score,Under5_Mortality,Life_Expectancy,Women_in_Parliament_Pct,Vaccination_Coverage_Pct,Obesity_Rate_Pct
+Afghanistan,E. Europe & C. Asia,0.264,57.09,55.51,66.035,,55,19.2
+Angola,Sub-Saharan Africa,0.575,62.28,64.01,64.617,33.6,50,11.5
+Albania,E. Europe & C. Asia,1.813,85.08,9.37,79.602,35.7,83,23.4
+Andorra,Western Europe (non-OECD),5.301,48.8,2.58,84.041,46.4,98,18.1
+United Arab Emirates,MENA,24.199,77.64,5.03,82.909,50,96,32.1
+Argentina,LAC,4.291,79.53,9.65,77.395,44.8,66,35.4
+Armenia,E. Europe & C. Asia,2.739,85.03,10.04,75.683,35.5,94,24.5
+Antigua and Barbuda,LAC,6.857,55.65,9.33,77.598,11.1,94,33.2
+Australia,OECD,14.557,90.87,3.67,83.923,38.4,91,30.2
+Austria,OECD,6.545,92.65,3.13,81.956,40.4,84,15.4
+Azerbaijan,E. Europe & C. Asia,4.23,66.8,18.56,74.429,18.6,83,26.6
+Burundi,Sub-Saharan Africa,0.054,47.28,49.21,63.651,38.2,86,5
+Belgium,OECD,7.143,90.49,3.6,82.115,42.7,96,20
+Benin,Sub-Saharan Africa,0.413,68.05,77.9,60.774,7.4,52,11.2
+Burkina Faso,Sub-Saharan Africa,0.269,74.31,77.27,61.092,16.9,94,6.8
+Bangladesh,East & South Asia,0.659,70.81,30.56,74.672,20.9,97,5.3
+Bulgaria,E. Europe & C. Asia,5.363,88.35,6.08,75.636,24.2,92,20.6
+Bahrain,MENA,24.7,51.58,8.6,81.284,20,99,36.1
+"Bahamas, The",LAC,6.091,49.77,12.69,74.552,18,86,47.3
+Bosnia and Herzegovina,E. Europe & C. Asia,6.265,69.45,6.04,77.85,19.1,55,21.2
+Belarus,E. Europe & C. Asia,5.934,78.73,2.44,74.434,40,97,21.4
+Belize,LAC,1.637,65.13,12.74,73.566,15.6,85,42.3
+Bolivia,LAC,1.899,72.52,23.1,68.581,46.2,67,28.7
+Brazil,LAC,2.254,80.64,14.44,75.848,17.7,87,28.1
+Barbados,LAC,4.229,62.52,10.04,76.178,26.7,85,38
+Brunei Darussalam,East & South Asia,26.107,63.21,9.39,75.327,9.1,97,31.7
+Bhutan,East & South Asia,2.182,63.1,23.06,72.975,17.4,99,12.2
+Botswana,Sub-Saharan Africa,2.531,63.29,39.57,69.163,11.1,95,18.3
+Central African Republic,Sub-Saharan Africa,0.05,47.27,92.2,57.408,12.9,41,9.3
+Canada,OECD,14.224,93.46,5.06,82.63,30.7,92,26.2
+Switzerland,OECD,3.733,90.29,3.94,83.954,41.7,95,12.1
+Chile,OECD,3.94,86.82,7.16,81.167,35.5,94,38.9
+China,East & South Asia,8.348,59.5,6.19,77.953,24.9,97,8.3
+Cote d'Ivoire,Sub-Saharan Africa,0.463,68.89,67.13,61.944,13.7,70,11.6
+Cameroon,Sub-Saharan Africa,0.352,58.45,67.23,63.7,33.9,71,14.9
+"Congo, Dem. Rep.",Sub-Saharan Africa,0.046,52.44,73.19,61.895,12.8,52,6.6
+"Congo, Rep.",Sub-Saharan Africa,1.271,43.16,40.51,65.772,14.6,65,8.5
+Colombia,OECD,2.025,87.27,12.03,77.725,28.9,90,23.6
+Cabo Verde,Sub-Saharan Africa,0.898,60.52,11.59,76.059,41.7,93,15.8
+Costa Rica,OECD,1.594,88.51,10.46,80.799,47.4,93,31.4
+Cyprus,E. Europe & C. Asia,7.792,88,3.53,81.648,14.3,82,22.9
+Czechia,OECD,8.162,91.04,2.56,79.834,26,87,26
+Germany,OECD,7.156,92.47,3.65,81.378,35.1,91,20.4
+Djibouti,Sub-Saharan Africa,0.436,41.58,50.42,65.987,26.2,72,11.3
+Dominica,LAC,2.238,42.34,35.47,71.132,37.5,56,31.3
+Denmark,OECD,4.624,95.26,3.42,81.933,43.6,95,13.3
+Dominican Republic,LAC,2.838,74.12,31.41,73.72,27.9,90,29.3
+Algeria,MENA,3.936,62.69,22,76.261,7.9,92,23.8
+Ecuador,LAC,2.386,79.14,13.05,77.392,38.7,70,27.4
+"Egypt, Arab Rep.",MENA,2.405,80.13,17.53,71.633,27.5,96,44.3
+Spain,OECD,4.662,94.33,3.12,83.67,42.4,93,15.7
+Estonia,OECD,7.564,92.8,2.11,79.153,27.7,89,22.2
+Ethiopia,Sub-Saharan Africa,0.122,60.67,46.46,67.315,41.3,61,2.8
+Finland,OECD,5.705,95.11,2.29,81.91,45.5,91,21.5
+Fiji,Oceania,1.228,60.83,29.14,67.316,10.9,99,33.8
+France,OECD,4.212,92.83,4.32,83.325,37.8,95,9.7
+"Micronesia, Fed. Sts.",Oceania,1.303,36.51,23.08,67.198,7.1,79,47.1
+Gabon,Sub-Saharan Africa,2.243,46.83,33.21,68.337,14.7,66,21
+United Kingdom,OECD,4.512,88.9,4.46,81.302,34.5,90,26.8
+Georgia,E. Europe & C. Asia,3.151,89.27,9.17,74.496,18.4,88,34.7
+Ghana,Sub-Saharan Africa,0.581,68.25,37.06,65.498,14.6,90,12.9
+Guinea,Sub-Saharan Africa,0.288,49.66,95.03,60.74,29.6,47,9.5
+"Gambia, The",Sub-Saharan Africa,0.26,67.92,44.08,65.86,8.6,80,14.9
+Guinea-Bissau,Sub-Saharan Africa,0.14,45.9,69.31,64.085,13.7,72,11.5
+Equatorial Guinea,Sub-Saharan Africa,3.624,35.06,70.62,63.707,31,61,17.7
+Greece,OECD,5.328,90.58,3.75,81.857,21,97,28
+Grenada,LAC,2.697,47.07,18.27,75.205,31.3,82,30.2
+Guatemala,LAC,1.135,74.27,21.36,72.602,19.4,83,26.8
+Guyana,LAC,4.372,58.05,25.74,70.18,36.6,95,28.5
+Honduras,LAC,1.051,65.83,15.51,72.884,27.3,73,29.5
+Croatia,E. Europe & C. Asia,4.36,87.02,4.57,78.58,31.8,90,30.6
+Haiti,LAC,0.302,39.6,55.12,64.936,,51,10.7
+Hungary,OECD,3.922,92.22,3.8,77.024,13.1,99,31.7
+Indonesia,East & South Asia,2.653,81.42,20.62,71.146,21.6,82,11.2
+India,East & South Asia,2.153,73.63,27.75,72.003,15.1,91,7.3
+Ireland,OECD,6.831,89.42,3.8,82.412,23.1,89,28.4
+"Iran, Islamic Rep.",MENA,9.206,62.96,11.77,77.654,5.6,99,24.3
+Iraq,MENA,3.922,57.78,22.62,72.324,28.9,91,40.5
+Iceland,OECD,10.057,81.74,2.58,82.691,47.6,91,21.2
+Israel,OECD,6.533,87.89,3.38,82.408,24.2,98,22.5
+Italy,OECD,5.317,93.64,2.76,83.716,32.3,95,17.3
+Jamaica,LAC,2.707,67.37,19.33,71.479,28.6,93,33.8
+Jordan,MENA,1.873,78.12,13.21,77.814,12.3,95,38.5
+Japan,OECD,7.998,90.94,2.36,84.712,10,94,5.5
+Kazakhstan,E. Europe & C. Asia,13.085,79.81,9.65,74.402,27.4,99,18.4
+Kenya,Sub-Saharan Africa,0.395,70.64,39.9,63.646,23.3,91,12.4
+Kyrgyz Republic,E. Europe & C. Asia,1.519,76.78,16.98,71.677,20,86,26.6
+Cambodia,East & South Asia,1.197,64.98,22.9,70.668,20.8,79,4.4
+Kiribati,Oceania,0.521,49,55.14,66.473,6.7,79,46.3
+St. Kitts and Nevis,LAC,4.894,42.16,16.28,72.145,31.3,95,45.6
+"Korea, Rep.",OECD,11.146,91.45,2.76,84.329,19.1,97,7.3
+Kuwait,MENA,23.131,62.44,8.75,80.405,6.3,99,41.4
+Lao PDR,East & South Asia,3.27,60.9,39,68.964,22,80,8
+Lebanon,MENA,3.59,58.19,18.31,77.817,6.3,55,29.8
+Liberia,Sub-Saharan Africa,0.144,65.07,72.88,62.163,11,82,17
+Libya,MENA,8.902,33.06,30.78,69.339,16.5,73,36.7
+St. Lucia,LAC,2.842,64.83,15.55,72.697,11.1,74,33.5
+Sri Lanka,East & South Asia,0.929,80.2,6.11,77.483,5.3,99,10.6
+Lesotho,Sub-Saharan Africa,1.678,58.05,58.93,57.375,26.5,87,21
+Lithuania,OECD,4.562,91.48,3.38,76.025,28.4,87,25.4
+Luxembourg,OECD,10.738,88.94,2.34,82.229,35,99,18.4
+Latvia,OECD,3.539,91.43,2.96,76.19,29,96,24.3
+Morocco,MENA,1.824,75.35,16.57,75.313,24.3,99,21.8
+Moldova,E. Europe & C. Asia,1.705,86.07,14.67,71.198,38.6,85,23
+Madagascar,Sub-Saharan Africa,0.149,53.4,64.77,63.632,18.5,51,4.3
+Maldives,East & South Asia,3.946,65.26,5.71,81.041,4.6,99,17.3
+Mexico,OECD,3.771,91.64,12.46,75.069,50,76,36
+Marshall Islands,Oceania,3.67,40.98,28.18,66.945,6.1,85,45.9
+North Macedonia,E. Europe & C. Asia,3.566,85.3,3.26,77.395,41.7,73,27.5
+Mali,Sub-Saharan Africa,0.295,63.05,91.3,60.439,28.6,73,11.4
+Malta,E. Europe & C. Asia,3.411,84.82,5.5,83.299,27.9,95,32.3
+Myanmar,East & South Asia,0.556,68.56,38.74,66.889,,74,7.4
+Montenegro,E. Europe & C. Asia,3.716,74.94,2.58,77.087,28.4,24,18
+Mongolia,East & South Asia,13.691,84.04,13.64,71.734,17.1,96,24.1
+Mozambique,Sub-Saharan Africa,0.24,60.77,61.65,63.611,43.2,65,10.3
+Mauritania,Sub-Saharan Africa,0.92,62.49,37.8,68.484,20.3,90,22.7
+Mauritius,Sub-Saharan Africa,3.184,78.35,15.17,74.926,20,96,19.2
+Malawi,Sub-Saharan Africa,0.085,65.58,38.34,67.353,20.7,87,7.7
+Malaysia,East & South Asia,8.464,80.42,8.08,76.657,13.5,96,22.1
+Namibia,Sub-Saharan Africa,1.615,58.68,40.65,67.385,44.2,83,17
+Niger,Sub-Saharan Africa,0.097,68.91,114.79,61.183,30.7,80,6
+Nigeria,Sub-Saharan Africa,0.581,60.9,104.91,54.462,3.6,60,12.4
+Nicaragua,LAC,0.799,53.62,13.43,74.947,51.7,85,33.6
+Netherlands,OECD,6.746,94.32,3.96,82.158,40.7,89,14.5
+Norway,OECD,7.132,93.56,2.35,83.308,46.2,96,19.1
+Nepal,East & South Asia,0.543,64.02,26.47,70.354,33.1,93,7
+Nauru,Oceania,4.518,42.15,8.94,62.109,10.5,98,69.9
+New Zealand,OECD,5.784,91.31,4.68,82.088,50,88,33.6
+Oman,MENA,17.033,58.25,10.4,80.031,2.3,99,31.1
+Pakistan,East & South Asia,0.843,68.57,58.46,67.649,20.5,84,23
+Panama,LAC,3.159,72.28,13.28,79.594,22.5,66,36.1
+Peru,LAC,1.634,76.55,15.8,77.74,38.8,84,27.3
+Philippines,East & South Asia,1.327,85.2,26.88,69.833,27.3,81,8.7
+Palau,Oceania,12.312,55.06,22.3,69.269,6.3,96,41.1
+Papua New Guinea,Oceania,0.813,45.91,40.31,66.134,1.7,35,20.5
+Poland,OECD,6.974,94.65,4.35,78.633,28.3,91,27.5
+Portugal,OECD,3.629,93.78,3.16,82.36,36.1,98,21.8
+Paraguay,LAC,1.194,75.62,17.02,73.844,18.8,71,33
+Qatar,MENA,42.763,66.79,6.02,82.368,4.4,95,43.1
+Romania,E. Europe & C. Asia,3.402,88.62,6.63,75.938,19.1,78,34
+Russian Federation,E. Europe & C. Asia,12.55,82.94,4.5,73.154,16.4,97,24.2
+Rwanda,Sub-Saharan Africa,0.111,73.14,40.02,67.785,61.3,94,4.9
+Saudi Arabia,MENA,20.07,81.53,6.16,78.732,19.9,97,40.6
+Sudan,Sub-Saharan Africa,0.421,44.74,50.15,66.331,,51,17
+Senegal,Sub-Saharan Africa,0.679,77.21,38.52,68.683,46.1,76,10.2
+Singapore,East & South Asia,8.215,88.77,2.07,83.736,29.1,97,13.9
+Solomon Islands,Oceania,0.414,42.94,20.55,70.528,8,68,22.6
+Sierra Leone,Sub-Saharan Africa,0.142,61.77,94.28,61.786,13,90,7.1
+El Salvador,LAC,1.296,74.89,10.43,72.099,27.4,96,30.9
+Somalia,Sub-Saharan Africa,0.031,49.69,104.02,58.816,19.7,42,14.6
+Serbia,E. Europe & C. Asia,5.898,84.41,5.23,76.769,34.8,84,22.5
+South Sudan,Sub-Saharan Africa,0.144,27.51,98.73,57.617,32.4,72,8.6
+Sao Tome and Principe,Sub-Saharan Africa,0.724,53.1,13.94,69.718,14.6,86,16.5
+Suriname,LAC,4.267,57.21,16.23,73.631,29.4,71,29
+Slovak Republic,OECD,5.257,89.77,6.08,78.341,22,94,26.8
+Slovenia,OECD,5.344,94.22,2.25,81.603,37.8,89,19.4
+Sweden,OECD,3.455,94.41,2.48,83.262,46.4,93,15.3
+Eswatini,Sub-Saharan Africa,0.916,61.19,45.01,64.123,14.9,85,30.1
+Seychelles,Sub-Saharan Africa,5.133,64,14.25,72.862,22.9,93,29.4
+Syrian Arab Republic,MENA,1.125,36.18,20.55,72.12,10.8,66,33.9
+Chad,Sub-Saharan Africa,0.171,56.37,101.13,55.069,25.9,63,6.7
+Togo,Sub-Saharan Africa,0.293,66.1,58.29,62.739,19.8,72,11.6
+Thailand,East & South Asia,3.685,81.07,9.21,76.412,16.6,92,15.4
+Tajikistan,E. Europe & C. Asia,0.901,48.61,27.32,71.79,27,96,23.8
+Turkmenistan,E. Europe & C. Asia,9.787,30.72,39.95,70.073,25.9,98,21.4
+Timor-Leste,East & South Asia,0.468,62.14,49.95,67.689,40,72,2.4
+Tonga,Oceania,1.857,61.21,9.93,72.895,7.1,99,71.7
+Trinidad and Tobago,LAC,22.384,56.11,19.07,73.49,28.6,90,28.1
+Tunisia,MENA,2.644,75.8,12.91,76.508,,96,26.8
+Türkiye,OECD,5.048,86.68,12.79,77.156,17.4,95,33.3
+Tuvalu,Oceania,1.013,42.36,19.89,67.105,6.3,94,64.2
+Tanzania,Sub-Saharan Africa,0.272,69.85,38.86,66.995,37.4,91,12.6
+Uganda,Sub-Saharan Africa,0.117,71.96,38.81,68.252,33.8,91,7.9
+Ukraine,E. Europe & C. Asia,3.783,78.74,8.07,73.422,20.4,83,23.6
+Uruguay,LAC,2.298,81.1,6.66,78.138,26.3,95,33.3
+United States,OECD,14.484,93.43,6.48,79.304,29.4,92,42
+Uzbekistan,E. Europe & C. Asia,3.575,80.33,13.32,72.388,33.6,99,30
+St. Vincent and the Grenadines,LAC,2.285,52.39,10.64,71.23,18.2,90,33.2
+"Venezuela, RB",LAC,3.487,39.39,24.26,72.514,,54,22.7
+Vietnam,East & South Asia,3.397,72.29,20.05,74.588,30.3,65,2
+Vanuatu,Oceania,0.684,51.1,16.8,71.477,1.9,70,21.3
+Samoa,Oceania,1.146,63.77,15.7,71.698,13,83,62.4
+"Yemen, Rep.",MENA,0.295,35.7,39.25,69.295,0,45,13.7
+South Africa,Sub-Saharan Africa,6.683,82.37,34.65,66.139,46.3,79,30.8
+Zambia,Sub-Saharan Africa,0.382,62.5,44.72,66.349,15,80,11.1
+Zimbabwe,Sub-Saharan Africa,0.677,69.73,44.21,62.775,30.6,90,14.2
+BRICS,,5.406,68.5,16.56,74.796,20.2,93.4,10.3
+BRICSplus members,,5.086,69.4,17.7,74.289,20.9,91.8,11.4
+East and South Asia,,4.308,69.06,20.76,73.992,20.5,90.8,9
+Eastern Europe and Central Asia,,7.298,77.31,13.68,72.826,22.8,88.3,24.4
+High-income Countries,,10.029,90.41,4.65,80.478,27.7,93.1,25.8
+Latin America and the Caribbean,,2.414,74.39,16.44,75.227,25.9,80.1,28.2
+Low-income Countries,,0.276,56.62,59.37,64.994,26.1,62.8,9.4
+Lower-middle-income Countries,,1.626,71.12,37.41,69.667,18.5,85,11.8
+Middle East and North Africa,,6.192,66.07,17.59,74.714,17.2,90.2,32.3
+OECD members,,8.215,91.78,6.02,80.569,30.9,91.2,26.7
+Oceania,,0.862,47.33,36.98,66.776,3.1,45,23.5
+Small Island Developing States,,3.17,58.65,29.13,72.138,22.4,76.2,21.4
+Sub-Saharan Africa,,0.659,62.33,66.01,62.624,24.3,69.2,11
+Upper-middle-income Countries,,6.196,69.05,11.09,76.229,25,91.5,16.4
+World,,4.567,72.46,24.43,73.429,23.1,86.7,15.6
